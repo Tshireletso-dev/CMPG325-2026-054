@@ -44,6 +44,4 @@ This project involves designing, simulating, and implementing a computer network
 - **Project:** CMPG325-2026-054
 - **Date:** August 2026
 
-## Academic Integrity
 
-This work is submitted in accordance with the NWU Academic Integrity Policy. All work is my own and has been completed with reference to the CMPG325 Project Handbook.
